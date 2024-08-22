@@ -1,0 +1,36 @@
+# Welcome to the EcommerceAPI Documentation
+
+Welcome to the documentation for EcommerceAPI! Our API provides powerful features for developers to integrate eCommerce functionality into their applications seamlessly. Whether you're building an online store, a mobile shopping app, or integrating eCommerce features into an existing platform, EcommerceAPI has you covered.
+
+## Getting Started
+To get started using EcommerceAPI, follow these simple steps:
+
+## Sign Up for an API Key
+Before you can start using EcommerceAPI, you'll need to sign up for an account on our website and obtain an API key. You can sign up for an account here. Once you've signed up, you'll receive your unique API key.
+
+## Explore the Documentation
+Take some time to explore our comprehensive documentation. You'll find detailed information on endpoints, request and response formats, authentication methods, error handling, and more. Understanding our API's capabilities is key to leveraging its full potential.
+
+~~~
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+~~~
+
+## Authenticate Your Requests
+Most endpoints in EcommerceAPI require authentication using your API key. You can include your API key as a query parameter in the URL or use the Authorization header with the value Bearer YOUR_API_KEY.
+
+## Test the API
+Before integrating EcommerceAPI into your application, we recommend testing it using tools like Postman or cURL. This allows you to familiarize yourself with the API's functionality and ensure it meets your requirements.
+
+## Start Integrating
+Once you're comfortable with the API, you can start integrating it into your application. Whether you're retrieving product information, processing orders, or managing customer data, our API provides the flexibility and scalability you need.
+
+## Support
+If you have any questions or need assistance, our dedicated support team is here to help. You can reach us via email at support@ecommerceapi.com.
+
+## Versioning
+This documentation is for version 1.0 of EcommerceAPI. We may release updates and improvements in the future, so be sure to check back regularly for the latest information.
+
