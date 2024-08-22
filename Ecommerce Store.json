@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "## This is an API definition to be used in an automated design first workflow.\n   We will reuse this API definition to create our functional tests and a virtual API.\n",
+    "description": "## This is an API definition to be used in an automated design first workflow.\n   We will reuse this API definition to create our functional tests and a virtual API.\n   Adding information here to see if Stoplight integration with Git is bi-directional.\n",
     "version": "1.1.0",
     "title": "Ecommerce Store",
     "termsOfService": "http://smartbear.com",
